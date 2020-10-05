@@ -1,0 +1,54 @@
+.product {
+    width: 20%;
+    height: auto;
+    -webkit-box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 0.75);
+    background-color: rgb(245,245,245);
+    margin-top: 50px;
+    font-family: OpenSansRegular;
+    padding: 10px;
+    display: inline-block;
+    margin-right: 10px;
+    transition: 0.25s;
+}
+.product .productname {
+    color: black;
+    font-weight: bold;
+}
+.product .productdesc {
+    color: grey;
+    font-weight: 300;
+}
+.product .productdesc::before {
+    content: "\A\A";
+    white-space: pre;
+}
+.product .productprice {
+    color: #0053A3;
+    margin-top: 75%;
+}
+.product .productprice::before {
+    content: "\A";
+    white-space: pre;
+}
+.product .productprice::after {
+    content: " kristallen";
+    white-space: pre;
+}
+.product .productbutton {
+    color: #FFB019;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 24px;
+    transition: 0.25s;
+}
+.product .productbutton::before {
+    content: "\A\A";
+    white-space: pre;
+}
+.product .productbutton:hover {
+    text-decoration-color: #FFB019;
+    text-decoration: underline;
+    font-size: 25px;
+}

@@ -1,0 +1,165 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    margin: 0;
+}
+#navbar {
+    z-index: 10;
+    position: fixed;
+    width: 99%;
+    padding: 5px;
+    padding-left: 25px;
+    height: 50px;
+    line-height: 50px;
+    background-color: white;
+    -webkit-box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 0.75);
+}
+#navbar #title {
+    color: #0053A3;
+    font-family: RajdhaniBold;
+    font-size: 35px;
+    margin-right: 10%;
+    float: left;
+}
+#navbar .item {
+    float: left;
+    margin-left: 25px;
+    font-size: 23px;
+    color: #FFB019;
+    font-family: RajdhaniBold;
+    transition: 0.25s;
+}
+#navbar .item:hover {
+    text-decoration-color: #FFB019;
+    text-decoration: underline;
+    font-size: 24px;
+}
+#headerimg {
+    position: absolute;
+    top: 50px;
+    z-index: 9;
+    width: 100%;
+    height: 225px;
+    line-height: 225px;
+    color: white;
+    font-family: OpenSansBold;
+    font-size: 25px;
+    text-align: center;
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url('../img/header.png');
+    text-shadow: 3px 3px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 0.75);
+}
+#contentwrapper {
+    z-index: 7;
+    top: 275px;
+    position: absolute;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: white;
+    color: black;
+    font-family: OpenSansRegular;
+    font-size: 17px;
+    height: 50px;
+    margin-bottom: 75px;
+}
+.partitle {
+    color: black;
+    font-family: OpenSansBold;
+    font-size: 25px;
+}
+.link {
+    color: #0053A3;
+    text-decoration: none;
+}
+.link:hover {
+    text-decoration-color: #0053A3;
+    text-decoration: underline;
+}
+.money {
+    color: #d98f00;
+}
+.disclaimer {
+    color: grey;
+    font-style: italic;
+}
+#navbarlogo {
+    margin-top: 5px;
+    margin-right: 5px;
+    width: 40px;
+    float: left;
+}
+.table {
+    display: inline-table;
+    border-collapse: collapse;
+    margin-right: 30px;
+    -webkit-box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 0.75);
+}
+.table td {
+    padding: 10px;
+    border: 1px solid lightgrey;
+    border-collapse: collapse;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.table th {
+    padding: 10px;
+    border: 1px solid #004485;
+    background-color: #0053A3;
+    color: white;
+    border-collapse: collapse;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#footer {
+    z-index: 8;
+    position: fixed;
+    width: 100%;
+    background-color: #0053A3;
+    color: white;
+    height: 20px;
+    bottom: 0;
+    left: 0;
+    font-family: OpenSansRegular;
+    font-size: 10px;
+    text-align: center;
+    line-height: 20px;
+    transition: 0.75s;
+}
+#footer:hover {
+    height: 30px;
+    font-size: 17px;
+    line-height: 30px;
+}
+.bottomspacer {
+    width: 100%;
+    background-color: rgba(0,0,0,0);
+    height: 50px;
+}
+.searchBarAdmin {
+    width: 30%;
+}
+#navbar .navbarname {
+    float: right;
+    margin-right: 75px;
+    text-align: right;
+    font-size: 23px;
+    color: black;
+    font-family: RajdhaniBold;
+    transition: 0.25s;
+}
+#navbar .navbarname:hover {
+    text-decoration-color: black;
+    text-decoration: underline;
+    font-size: 24px;
+}

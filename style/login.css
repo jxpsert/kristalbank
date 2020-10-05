@@ -1,0 +1,66 @@
+#loginbox {
+    width: 25%;
+    height: 225px;
+    -webkit-box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 0.75);
+    background-color: rgb(245,245,245);
+    margin-top: 50px;
+    font-family: OpenSansRegular;
+    padding: 10px;
+    display: inline-block;
+}
+.center {
+    text-align: center;
+}
+
+input[type=text] {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    font-family: OpenSansRegular;
+}
+input[type=password] {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    font-family: OpenSansRegular;
+}
+input[type=email] {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    font-family: OpenSansRegular;
+}
+input[type=submit] {
+    width: 80%;
+    padding: 12px 20px;
+    border-radius: 5px;
+    font-family: OpenSansRegular;
+    background-color: #0053A3;
+    border: 1px solid #004485;
+    color: white;
+    margin-top: 10px;
+    font-size: 18px;
+}
+input[type=submit]:hover {
+    background-color: #004b91;
+    cursor: pointer;
+}
+label {
+    font-family: OpenSansRegular;
+}
+.email {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    font-family: OpenSansRegular;
+}
