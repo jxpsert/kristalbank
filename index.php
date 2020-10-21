@@ -53,20 +53,16 @@ session_start();
                 <th>Kristallen</th>
             </tr>
             <tr>
-                <td>3,0 tot 5,0</td>
+                <td>5,0 tot 7,0</td>
                 <td>2</td>
             </tr>
             <tr>
-                <td>5,0 tot 7,0</td>
+                <td>7,0 tot 9,0</td>
                 <td>4</td>
             </tr>
             <tr>
-                <td>7,0 tot 9,0</td>
-                <td>6</td>
-            </tr>
-            <tr>
                 <td>9,0 tot en met 10</td>
-                <td>8</td>
+                <td>6</td>
             </tr>
         </table>
         <p class="partitle">Wat kan ik met kristallen?</p>
