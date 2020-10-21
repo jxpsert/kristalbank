@@ -44,7 +44,7 @@ session_start();
         <p class="partitle">Waarom Kristalbank?</p>
         <p>Kristalbank is een bank, speciaal gecreeërd voor leerlingen van <a class="link"
                 href="https://www.kristallis.nl/">Kristallis</a>. Bij Kristalbank spaar je geen euro's, maar
-            <span class="money">kristallen</span>. <!--Een kristal is ongeveer 50 <span class="money">eurocent</span> waard.-->
+            <span class="money">kristallen</span>.
             Door schoolpunten te behalen kan je kristallen verdienen. Hoe hoger je punt, des te meer kristallen je krijgt.</p>
             <p class="disclaimer">Het is niet mogelijk om kristallen in te wisselen tegen euro's.</p>
         <table class="table">
