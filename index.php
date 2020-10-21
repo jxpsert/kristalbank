@@ -53,7 +53,7 @@ session_start();
                 <th>Kristallen</th>
             </tr>
             <tr>
-                <td>5,0 tot 7,0</td>
+                <td>5,6 tot 7,0</td>
                 <td>2</td>
             </tr>
             <tr>
