@@ -69,27 +69,8 @@ session_start();
                 <td>8</td>
             </tr>
         </table>
-        <!--<p>Het is ook mogelijk kristallen te kopen. Dit is alleen mogelijk via PayPal of via een bankoverdracht.</p>
-        <table class="table">
-            <tr>
-                <th>Kristallen</th>
-                <th>Prijs</th>
-            </tr>
-            <tr>
-                <td>10</td>
-                <td>&euro; 5</td>
-            </tr>
-            <tr>
-                <td>50</td>
-                <td>&euro; 25</td>
-            </tr>
-            <tr>
-                <td>100</td>
-                <td>&euro; 50</td>
-            </tr>
-        </table>-->
         <p class="partitle">Wat kan ik met kristallen?</p>
-        <p>Op dit moment zijn kristallen compleet nutteloos. Binnenkort zal er een online winkel onstaan, waar kristallen gespendeerd kunnen worden. Dit gaat wel een tijdje duren, i.v.m. het maken van deze pagina('s) en het kiezen wat voor producten erop gaan komen.</p>
+        <p>Binnen het dashboard bevindt zich een winkel, waar leerlingen met hun kristallen online producten kunnen kopen. Denk hierbij aan codes voor videogames, cadeaukaarten, etc.</p>
         <div class="bottomspacer">
         </div>
     </div>
