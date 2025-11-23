@@ -38,8 +38,6 @@
         <span id="quote">Over Kristalbank</span>
     </div>
     <div id="contentwrapper">
-        <p class="partitle">Wie?</p>
-        <p>Kristalbank is en wordt gemaakt door Jasper Platenburg, HAVO 5 leerling op Kristallis Park Neerbosch.<br><br>jplatenburg@outlook.com<br><a class="link" href="https://www.jxpr.eu">www.jxpr.eu</a></p>
         <p class="partitle">Waarom?</p>
         <p>Kristalbank is eigenlijk meer een oefenproject dan een echt systeem. Wel is het uiterste best gedaan deze website/dienst zo goed mogelijk uit te werken, zodat het lijkt op een echte bank.</p>
         <p class="partitle">Vacatures</p>
